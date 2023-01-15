@@ -1,4 +1,4 @@
-# APROG---EXERCICIOS-JAVA---2022-2023
+# APROG-EXERCICIOS-JAVA-2022-2023
 
 # Como utilizar
 Disponibilizei estes exercícios com o intuito de ajudar a tirar algumas dúvidas que possam surgir. Apenas copiar não é uma boa maneira de aprender, mas sim entender o motivo pelo qual não estamos a conseguir chegar à solução. Utilizem isto com consciência, para não se prejudicarem a vocês mesmos!
